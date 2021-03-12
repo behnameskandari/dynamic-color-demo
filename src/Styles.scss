@@ -1,0 +1,32 @@
+
+h1{
+  color: var(--primary-color);
+
+}
+
+label{
+  color: var(--seondary-color);
+
+}
+body {
+  color: var(--primary-color);
+}
+
+input {
+  background-color: var(--input-bg-color);
+  color: var(--input-fg-color);
+  border: 1px solid var(--input-border-color);
+}
+
+.btn-primary {
+  background-color: var(--primary-btn-bg-color);
+  color: var(--primary-btn-fg-color);
+  border: 1px solid var(--primary-btn-border-color);
+}
+
+
+.btn-secondary {
+  background-color: var(--seondary-btn-bg-color);
+  color: var(--seondary-btn-fg-color);
+  border: 1px solid var(--seondary-btn-border-color);
+}
